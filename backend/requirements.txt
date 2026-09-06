@@ -1,6 +1,6 @@
-fastapi==0.95.2
-uvicorn[standard]==0.21.1
-python-multipart==0.0.6
-pymupdf==1.22.5
-sqlalchemy==2.1.0
-psycopg2-binary==2.9.6
+iniconfig==2.3.0
+packaging==26.3
+pluggy==1.6.0
+Pygments==2.21.0
+pymupdf==1.28.2
+pytest==9.1.1
